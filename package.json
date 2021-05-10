@@ -1,5 +1,5 @@
 {
-  "name": "@cdcts/sipjs",
+  "name": "cdcts-sipjs",
   "version": "1.3.6",
   "description": "cdcts JavaScript library for building WebRTC apps with SIP.js",
   "keywords": [
@@ -22,8 +22,7 @@
     "start": "npm run watch",
     "test": "karma start",
     "release": "npm run release",
-    "prepare": "npm run build",
-    "prepublishOnly": "npm run test && npm run release"
+    "prepare": "npm run build"
   },
   "license": "ISC",
   "devDependencies": {
@@ -34,9 +33,9 @@
     "core-js": "^3.7.0",
     "es6-event-emitter": "^1.5.2",
     "jasmine-core": "^2.99.1",
-    "jsdoc-to-markdown": "^6.0.1",
+    "jsdoc-to-markdown": "^7.0.1",
     "json-loader": "^0.5.7",
-    "karma": "^5.2.3",
+    "karma": "^6.3.2",
     "karma-chrome-launcher": "^3.1.0",
     "karma-jasmine": "^4.0.1",
     "karma-sourcemap-loader": "^0.3.8",
@@ -57,11 +56,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tanpn2/webrtc-cdc.git"
+    "url": "git+https://github.com/tanpn2/cdcts-sipjs.git"
   },
   "author": "tan.pn@cdcts.vn",
   "bugs": {
-    "url": "https://github.com/tanpn2/webrtc-cdc/issues"
+    "url": "https://github.com/tanpn2/cdcts-sipjs/issues"
   },
-  "homepage": "https://github.com/tanpn2/webrtc-cdc#readme"
+  "homepage": "https://github.com/tanpn2/cdcts-sipjs#readme"
 }

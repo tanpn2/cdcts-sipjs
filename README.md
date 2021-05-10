@@ -1,6 +1,6 @@
 # cdcts WebRTC SIP JavaScript library
 
-![npm (scoped)](https://img.shields.io/npm/v/@cdcts/sipjs)
+![npm (scoped)](https://img.shields.io/npm/v/cdcts-sipjs)
 
 The cdcts SIP-based WebRTC JS library powers up your web application with the ability to make and receive phone calls directly in the browser.
 
@@ -13,13 +13,13 @@ _Looking for more WebRTC features, JSON-RPC support or need to quickly get spun 
 Install this package with [npm](https://www.npmjs.com/):
 
 ```shell
-$ npm install --save @cdcts/sipjs
+$ npm install --save cdcts-sipjs
 ```
 
 or using [yarn](https://yarnpkg.com/lang/en/):
 
 ```shell
-$ yarn add @cdcts/sipjs
+$ yarn add cdcts-sipjs
 ```
 
 ## Usage
@@ -27,7 +27,7 @@ $ yarn add @cdcts/sipjs
 Import [CdctsDevice](https://github.com/team-cdcts/cdcts-sipjs/blob/master/docs/CdctsDevice.md) in the module where you need it.
 
 ```javascript
-import { CdctsDevice } from '@cdcts/sipjs';
+import { CdctsDevice } from 'cdcts-sipjs';
 ```
 
 ### Example config and initiation
