@@ -1,6 +1,6 @@
 {
   "name": "cdcts-sipjs",
-  "version": "1.3.6",
+  "version": "1.4.0",
   "description": "cdcts JavaScript library for building WebRTC apps with SIP.js",
   "keywords": [
     "cdcts",
