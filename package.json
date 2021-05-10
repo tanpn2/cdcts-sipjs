@@ -21,7 +21,7 @@
     "watch": "webpack --watch",
     "start": "npm run watch",
     "test": "karma start",
-    "release": "cdcts-npm-release",
+    "release": "npm run release",
     "prepare": "npm run build",
     "prepublishOnly": "npm run test && npm run release"
   },
