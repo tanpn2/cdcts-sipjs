@@ -51,7 +51,17 @@
   "engines": {
     "node": ">=4.0.0"
   },
-  "dependencies": {
-
-  }
+  "dependencies": {},
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanpn2/webrtc-cdc.git"
+  },
+  "author": "tan.pn@cdcts.vn",
+  "bugs": {
+    "url": "https://github.com/tanpn2/webrtc-cdc/issues"
+  },
+  "homepage": "https://github.com/tanpn2/webrtc-cdc#readme"
 }
