@@ -24,7 +24,7 @@ $ yarn add cdcts-sipjs
 
 ## Usage
 
-Import [CdctsDevice](https://github.com/team-cdcts/cdcts-sipjs/blob/master/docs/CdctsDevice.md) in the module where you need it.
+Import [CdctsDevice](https://github.com/team-cdcts/cdcts-sipjs/docs/CdctsDevice.md) in the module where you need it.
 
 ```javascript
 import { CdctsDevice } from 'cdcts-sipjs';
@@ -65,7 +65,7 @@ activeCall.on('accepted', () => {
 });
 ```
 
-See the [CdctsDevice](https://github.com/team-cdcts/cdcts-sipjs/blob/master/docs/CdctsDevice.md) and [cdctsCall](https://github.com/team-cdcts/cdcts-sipjs/blob/master/docs/cdctsCall.md) for more details.
+See the [CdctsDevice](https://github.com/team-cdcts/cdcts-sipjs/docs/CdctsDevice.md) and [cdctsCall](https://github.com/team-cdcts/cdcts-sipjs/docs/cdctsCall.md) for more details.
 
 ## Development
 
